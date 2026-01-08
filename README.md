@@ -31,9 +31,6 @@
 ---
 
 
-| Dashboard | Marketplace |
-| :---: | :---: |
-| ![Dashboard](https://via.placeholder.com/400x200?text=Seller+Dashboard) | ![Marketplace](https://via.placeholder.com/400x200?text=Invoice+Marketplace) |
 
 ---
 
